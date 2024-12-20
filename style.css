@@ -132,7 +132,7 @@ body {
 
 /* Very light scaling for our illustration */
 .title {
-  color: var(--color-text-header);
+  color: red;
   font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
@@ -168,7 +168,7 @@ input {
 
 /* Subheading */
 h2 {
-  color: var(--color-text-header);
+  color: red;
 }
 
 /* Interactive image */
